@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with error handling and documentation
 - 💬 Ask me about azure and python
 - 📫 How to reach me: @cloudlink_tj
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: We are hurling through the universe at an increadible speed!
 
 <!--
